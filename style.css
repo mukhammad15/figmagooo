@@ -376,7 +376,7 @@ background: url(./IMAGE\ \(36\).png) no-repeat center/cover;
 .the_bar{
     width: 100%;
     height: 10%;
-    background: url(./photo_2022-05-29_06-57-49.jpg);
+    background: url(./photo_2022-05-29_06-57-49.jpg) no-repeat center/cover;
 }
 
 
